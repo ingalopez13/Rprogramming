@@ -1,2 +1,0 @@
-# Rprogramming
-#readme para Rprogramming
